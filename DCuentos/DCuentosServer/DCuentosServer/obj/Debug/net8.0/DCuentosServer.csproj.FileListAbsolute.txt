@@ -1,0 +1,14 @@
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\DCuentosServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\DCuentosServer.AssemblyInfoInputs.cache
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\DCuentosServer.AssemblyInfo.cs
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\DCuentosServer.csproj.CoreCompileInputs.cache
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\bin\Debug\net8.0\DCuentosServer.exe
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\bin\Debug\net8.0\DCuentosServer.deps.json
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\bin\Debug\net8.0\DCuentosServer.runtimeconfig.json
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\bin\Debug\net8.0\DCuentosServer.dll
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\bin\Debug\net8.0\DCuentosServer.pdb
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\DCuentosServer.dll
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\refint\DCuentosServer.dll
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\DCuentosServer.pdb
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\DCuentosServer.genruntimeconfig.cache
+E:\BirtLH-DAM\PSP\UD1\DCuentosServer\DCuentosServer\obj\Debug\net8.0\ref\DCuentosServer.dll

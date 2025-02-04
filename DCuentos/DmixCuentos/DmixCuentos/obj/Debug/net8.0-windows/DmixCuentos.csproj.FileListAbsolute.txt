@@ -1,0 +1,16 @@
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\bin\Debug\net8.0-windows\DmixCuentos.exe
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\bin\Debug\net8.0-windows\DmixCuentos.deps.json
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\bin\Debug\net8.0-windows\DmixCuentos.runtimeconfig.json
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\bin\Debug\net8.0-windows\DmixCuentos.dll
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\bin\Debug\net8.0-windows\DmixCuentos.pdb
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.csproj.GenerateResource.cache
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.AssemblyInfoInputs.cache
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.AssemblyInfo.cs
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.csproj.CoreCompileInputs.cache
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.dll
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\refint\DmixCuentos.dll
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.pdb
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.genruntimeconfig.cache
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\ref\DmixCuentos.dll
+E:\BirtLH-DAM\PSP\UD1\DmixCuentos\DmixCuentos\obj\Debug\net8.0-windows\DmixCuentos.DCuentos.resources
